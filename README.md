@@ -1,2 +1,2 @@
-# GestorCreditos
-Proyecto de Ofertas de Créditos
+# GestorCreditos Agregar codigo inicial
+Proyecto de Ofertas de Créditos 
