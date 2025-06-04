@@ -42,6 +42,7 @@ The following tables are created and processed throughout the ELT pipeline:
 
 ---
 
+
 ## Class Diagram for PySpark ELT Process
 
 The Class Diagram outlines the PySpark class structure used in the project, including the modules for extraction, transformation, and loading phases.
@@ -265,3 +266,5 @@ This project is part of a broader initiative to improve the real-time credit app
 - **Data Lake Integration**: Expanding the architecture to include a data lake for storing unstructured data and supporting big data analytics.
 
 These future steps aim to further streamline and automate the credit process, enabling quicker decision-making and better resource allocation.
+=======
+
