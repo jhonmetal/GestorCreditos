@@ -251,7 +251,10 @@ This ELT process automates the handling of raw credit application data, transfor
 
 This project was made possible with the help of the following contributors:
 
-- **[Collaborator Name]**: [Role / Contribution]
+- **Sihomara Ochoa**: Team Member / Build Storage Retrieval
+- **Dennis Guevara**: Team Member / Deploy ETL Process
+- **Vidal Espinoza**: Team Member / Job Clusters Deployment
+- **Nikol Lopez**: Team Member / Build Gold Analytics
 
 If you'd like to contribute, feel free to fork the repository and submit pull requests. Contributions are always welcome!
 
@@ -267,5 +270,3 @@ This project is part of a broader initiative to improve the real-time credit app
 
 These future steps aim to further streamline and automate the credit process, enabling quicker decision-making and better resource allocation.
 =======
-## HU-20101
-
