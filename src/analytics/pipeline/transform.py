@@ -1,6 +1,5 @@
 from dataclasses import dataclass, field
 from typing import Dict, List
-
 from pyspark.sql import SparkSession, DataFrame, Window
 from pyspark.sql.functions import col, sum, rank, dense_rank, row_number, when, lit, desc, year, date_format, avg, \
     length, first, round, current_date, expr

@@ -79,5 +79,3 @@ class Persist:
         except Exception as err:
             self.logger.error(f"An error occurred while checking for partition > {err}")
             return None
-
-#HU-20101
