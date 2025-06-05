@@ -1,5 +1,5 @@
 from setuptools import setup, find_packages
-
+ 
 setup(
     name='leadsAnalytics',
     version='1.0.0',
