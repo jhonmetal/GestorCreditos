@@ -42,7 +42,6 @@ The following tables are created and processed throughout the ELT pipeline:
 
 ---
 
-
 ## Class Diagram for PySpark ELT Process
 
 The Class Diagram outlines the PySpark class structure used in the project, including the modules for extraction, transformation, and loading phases.
@@ -251,10 +250,7 @@ This ELT process automates the handling of raw credit application data, transfor
 
 This project was made possible with the help of the following contributors:
 
-- **Sihomara Ochoa**: Team Member / Build Storage Retrieval
-- **Dennis Guevara**: Team Member / Deploy ETL Process
-- **Vidal Espinoza**: Team Member / Job Clusters Deployment
-- **Nikol Lopez**: Team Member / Build Gold Analytics
+- **[Collaborator Name]**: [Role / Contribution]
 
 If you'd like to contribute, feel free to fork the repository and submit pull requests. Contributions are always welcome!
 
@@ -269,4 +265,3 @@ This project is part of a broader initiative to improve the real-time credit app
 - **Data Lake Integration**: Expanding the architecture to include a data lake for storing unstructured data and supporting big data analytics.
 
 These future steps aim to further streamline and automate the credit process, enabling quicker decision-making and better resource allocation.
-=======
