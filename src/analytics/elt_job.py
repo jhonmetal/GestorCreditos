@@ -34,6 +34,7 @@ class Pipeline(Utils):
             self.logger.info('run_pipeline method started')
             ingest_process = ingest.Ingest(self.spark, self.base_path)
             persist_process = load.Persist(self.spark)
+            
             # Ingestion phase and load dim_tables:
             ingest_df_list = ingest_process.ingest_data()
             persist_process.persist_data(ingest_df_list, ConsETL.BRONZE_DB)
