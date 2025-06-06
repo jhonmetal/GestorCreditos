@@ -50,7 +50,6 @@ class Transform(Utils):
 
 
         # Silver Table 2: Completed Transactions Table
-
         self.logger.info("Null Value Counts:")
         self.count_nulls(self.t_transactions_df).show()
 
@@ -160,7 +159,6 @@ class Transform(Utils):
         self.transform_dfs[ConsETL.TOP_MONTHLY_TABLE] = top_monthly_df
 
         # Gold Table 3:
-
         porc_use_balance_col = round((col("total_expenses") / (col("initial_balance") + col("total_deposits"))) * 100,
                                      2)
 
